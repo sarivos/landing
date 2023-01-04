@@ -1,0 +1,19 @@
+.footer {
+  background-color: rgb(30, 26, 26);
+  text-align: center;
+  padding: 60px;
+}
+
+.footer a {
+  font-size: 30px;
+  color: rgb(11, 115, 80);
+  margin: 0 5px;
+}
+
+.footer p {
+  color: #666666
+}
+
+.footer .fa-solid {
+  color: red;
+}
